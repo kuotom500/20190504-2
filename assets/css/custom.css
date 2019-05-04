@@ -1,0 +1,6 @@
+/* 為保留#main.css的完整性不被破壞,一般會在css檔下另建一個custom.css(可自行命名),在這裡修改main.css裡的程式碼 */
+/* ctrl f -> <字串查找>快捷鍵
+   ctrl g -> :xx 到哪一(xx)行! */
+.font{
+    font-family: "Open Sans", Helvetica, sans-serif,"microsoft JHengHei";
+}
